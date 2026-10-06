@@ -1,0 +1,181 @@
+product_id,product_name,category,unit_price,unit_cost
+1,Wireless Earbuds 001,Electronics,890.04,564.38
+2,Air Fryer 002,Home & Kitchen,845.25,592.79
+3,T-Shirt 003,Fashion,454.65,351.75
+4,Face Wash 004,Beauty,470.59,340.89
+5,Yoga Mat 005,Sports,994.14,633.36
+6,Fiction Book 006,Books,680.21,517.61
+7,Smartphone 007,Electronics,818.7,600.86
+8,Coffee Maker 008,Home & Kitchen,765.55,443.32
+9,Jeans 009,Fashion,1023.99,549.46
+10,Moisturizer 010,Beauty,611.98,418.74
+11,Running Shoes 011,Sports,937.35,573.82
+12,Self Help Book 012,Books,767.01,576.95
+13,Smartwatch 013,Electronics,688.63,392.93
+14,Mixer Grinder 014,Home & Kitchen,783.12,416.14
+15,Sneakers 015,Fashion,1039.87,725.41
+16,Sunscreen 016,Beauty,952.25,734.71
+17,Dumbbells 017,Sports,835.87,515.16
+18,Data Science Book 018,Books,620.3,353.11
+19,Bluetooth Speaker 019,Electronics,768.72,494.81
+20,Cookware Set 020,Home & Kitchen,487.07,338.1
+21,Kurta 021,Fashion,1167.4,859.79
+22,Perfume 022,Beauty,298.67,179.56
+23,Cricket Bat 023,Sports,792.21,577.71
+24,Exam Guide 024,Books,520.84,309.88
+25,Power Bank 025,Electronics,1085.3,603.79
+26,Bedsheet 026,Home & Kitchen,824.35,430.24
+27,Handbag 027,Fashion,995.84,689.98
+28,Lipstick 028,Beauty,270.22,195.37
+29,Fitness Band 029,Sports,848.21,566.49
+30,Children Book 030,Books,454.1,249.65
+31,Laptop Stand 031,Electronics,590.86,379.62
+32,Storage Box 032,Home & Kitchen,360.67,259.29
+33,Jacket 033,Fashion,952.76,632.56
+34,Hair Serum 034,Beauty,577.19,345.75
+35,Football 035,Sports,885.1,560.75
+36,Business Book 036,Books,675.13,422.78
+37,Wireless Earbuds 037,Electronics,511.9,297.32
+38,Air Fryer 038,Home & Kitchen,471.14,279.46
+39,T-Shirt 039,Fashion,946.0,654.73
+40,Face Wash 040,Beauty,387.5,280.48
+41,Yoga Mat 041,Sports,1244.78,778.81
+42,Fiction Book 042,Books,586.68,330.54
+43,Smartphone 043,Electronics,704.54,382.85
+44,Coffee Maker 044,Home & Kitchen,427.7,273.77
+45,Jeans 045,Fashion,763.65,496.58
+46,Moisturizer 046,Beauty,532.46,373.28
+47,Running Shoes 047,Sports,1262.24,781.41
+48,Self Help Book 048,Books,431.15,294.85
+49,Smartwatch 049,Electronics,443.21,240.57
+50,Mixer Grinder 050,Home & Kitchen,409.13,315.07
+51,Sneakers 051,Fashion,1035.16,726.61
+52,Sunscreen 052,Beauty,394.21,304.33
+53,Dumbbells 053,Sports,882.77,623.58
+54,Data Science Book 054,Books,360.63,213.05
+55,Bluetooth Speaker 055,Electronics,573.7,432.96
+56,Cookware Set 056,Home & Kitchen,872.25,499.47
+57,Kurta 057,Fashion,1047.79,702.65
+58,Perfume 058,Beauty,365.51,271.47
+59,Cricket Bat 059,Sports,1025.57,725.14
+60,Exam Guide 060,Books,542.42,370.53
+61,Power Bank 061,Electronics,1401.41,965.52
+62,Bedsheet 062,Home & Kitchen,454.3,285.35
+63,Handbag 063,Fashion,972.04,630.31
+64,Lipstick 064,Beauty,602.77,336.09
+65,Fitness Band 065,Sports,1668.89,1122.81
+66,Children Book 066,Books,399.69,303.98
+67,Laptop Stand 067,Electronics,697.97,425.89
+68,Storage Box 068,Home & Kitchen,811.82,426.96
+69,Jacket 069,Fashion,537.87,347.14
+70,Hair Serum 070,Beauty,502.19,271.94
+71,Football 071,Sports,2011.45,1302.58
+72,Business Book 072,Books,578.04,386.51
+73,Wireless Earbuds 073,Electronics,379.33,223.58
+74,Air Fryer 074,Home & Kitchen,489.04,320.5
+75,T-Shirt 075,Fashion,726.44,381.83
+76,Face Wash 076,Beauty,653.5,492.09
+77,Yoga Mat 077,Sports,945.99,628.18
+78,Fiction Book 078,Books,278.24,193.31
+79,Smartphone 079,Electronics,785.08,556.64
+80,Coffee Maker 080,Home & Kitchen,680.32,372.83
+81,Jeans 081,Fashion,755.7,438.2
+82,Moisturizer 082,Beauty,321.01,213.23
+83,Running Shoes 083,Sports,2106.37,1549.75
+84,Self Help Book 084,Books,670.54,403.97
+85,Smartwatch 085,Electronics,1108.39,660.2
+86,Mixer Grinder 086,Home & Kitchen,615.32,360.92
+87,Sneakers 087,Fashion,715.67,402.78
+88,Sunscreen 088,Beauty,383.75,242.96
+89,Dumbbells 089,Sports,639.37,480.7
+90,Data Science Book 090,Books,868.95,653.11
+91,Bluetooth Speaker 091,Electronics,767.46,502.61
+92,Cookware Set 092,Home & Kitchen,1026.67,739.94
+93,Kurta 093,Fashion,779.44,481.03
+94,Perfume 094,Beauty,522.86,373.41
+95,Cricket Bat 095,Sports,1066.23,814.15
+96,Exam Guide 096,Books,309.75,170.95
+97,Power Bank 097,Electronics,1462.49,818.78
+98,Bedsheet 098,Home & Kitchen,568.42,384.16
+99,Handbag 099,Fashion,610.9,366.96
+100,Lipstick 100,Beauty,563.64,435.51
+101,Fitness Band 101,Sports,998.21,556.41
+102,Children Book 102,Books,562.71,326.21
+103,Laptop Stand 103,Electronics,825.77,574.89
+104,Storage Box 104,Home & Kitchen,317.16,206.68
+105,Jacket 105,Fashion,669.99,449.62
+106,Hair Serum 106,Beauty,330.93,241.27
+107,Football 107,Sports,1377.91,981.26
+108,Business Book 108,Books,505.39,279.06
+109,Wireless Earbuds 109,Electronics,949.17,591.69
+110,Air Fryer 110,Home & Kitchen,579.57,375.0
+111,T-Shirt 111,Fashion,1086.52,834.95
+112,Face Wash 112,Beauty,426.31,324.19
+113,Yoga Mat 113,Sports,924.64,614.29
+114,Fiction Book 114,Books,531.88,291.22
+115,Smartphone 115,Electronics,825.74,519.37
+116,Coffee Maker 116,Home & Kitchen,1568.83,1058.92
+117,Jeans 117,Fashion,667.65,486.8
+118,Moisturizer 118,Beauty,269.63,195.22
+119,Running Shoes 119,Sports,1116.79,612.42
+120,Self Help Book 120,Books,387.39,281.7
+121,Smartwatch 121,Electronics,377.31,248.27
+122,Mixer Grinder 122,Home & Kitchen,448.15,334.15
+123,Sneakers 123,Fashion,1951.32,1224.0
+124,Sunscreen 124,Beauty,331.08,228.28
+125,Dumbbells 125,Sports,540.53,344.87
+126,Data Science Book 126,Books,1053.47,612.63
+127,Bluetooth Speaker 127,Electronics,544.97,399.09
+128,Cookware Set 128,Home & Kitchen,1796.77,965.41
+129,Kurta 129,Fashion,791.17,441.47
+130,Perfume 130,Beauty,824.1,495.03
+131,Cricket Bat 131,Sports,917.73,696.98
+132,Exam Guide 132,Books,582.18,345.83
+133,Power Bank 133,Electronics,763.39,419.89
+134,Bedsheet 134,Home & Kitchen,598.01,319.58
+135,Handbag 135,Fashion,976.19,521.17
+136,Lipstick 136,Beauty,530.75,369.92
+137,Fitness Band 137,Sports,1055.91,636.37
+138,Children Book 138,Books,509.39,380.77
+139,Laptop Stand 139,Electronics,621.46,330.18
+140,Storage Box 140,Home & Kitchen,628.24,367.42
+141,Jacket 141,Fashion,1560.98,980.65
+142,Hair Serum 142,Beauty,344.53,212.62
+143,Football 143,Sports,1095.71,598.74
+144,Business Book 144,Books,758.63,404.73
+145,Wireless Earbuds 145,Electronics,946.4,516.51
+146,Air Fryer 146,Home & Kitchen,899.26,678.66
+147,T-Shirt 147,Fashion,610.17,444.53
+148,Face Wash 148,Beauty,493.51,339.07
+149,Yoga Mat 149,Sports,902.79,501.04
+150,Fiction Book 150,Books,457.79,299.26
+151,Smartphone 151,Electronics,1338.94,857.36
+152,Coffee Maker 152,Home & Kitchen,598.29,410.6
+153,Jeans 153,Fashion,998.24,555.36
+154,Moisturizer 154,Beauty,243.32,152.9
+155,Running Shoes 155,Sports,1830.47,1126.75
+156,Self Help Book 156,Books,676.51,409.39
+157,Smartwatch 157,Electronics,783.01,546.77
+158,Mixer Grinder 158,Home & Kitchen,578.2,443.3
+159,Sneakers 159,Fashion,1103.59,711.86
+160,Sunscreen 160,Beauty,679.49,447.93
+161,Dumbbells 161,Sports,1841.13,1269.77
+162,Data Science Book 162,Books,668.08,439.93
+163,Bluetooth Speaker 163,Electronics,818.85,487.15
+164,Cookware Set 164,Home & Kitchen,919.04,526.26
+165,Kurta 165,Fashion,1183.48,880.26
+166,Perfume 166,Beauty,461.23,313.51
+167,Cricket Bat 167,Sports,1300.57,921.7
+168,Exam Guide 168,Books,645.73,492.91
+169,Power Bank 169,Electronics,781.47,601.19
+170,Bedsheet 170,Home & Kitchen,542.17,365.61
+171,Handbag 171,Fashion,1124.99,817.57
+172,Lipstick 172,Beauty,315.59,184.9
+173,Fitness Band 173,Sports,653.25,355.83
+174,Children Book 174,Books,557.69,371.92
+175,Laptop Stand 175,Electronics,989.97,634.73
+176,Storage Box 176,Home & Kitchen,723.07,519.61
+177,Jacket 177,Fashion,1040.29,674.07
+178,Hair Serum 178,Beauty,218.57,166.58
+179,Football 179,Sports,1229.76,676.92
+180,Business Book 180,Books,838.14,579.19
